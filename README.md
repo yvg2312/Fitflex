@@ -37,8 +37,8 @@ Step 1
 🍴 Fork this repo!
 
 Step 2
-👯 Clone this repo to your local machine using https://github.com/kritika27/fitness-tracker-mern-stack-app.git
-
+👯 Clone this repo to your local machine using 
+](https://github.com/yvg2312/Fitflex/edit/main/README.md)
 Step 3
 HACK AWAY! 🔨🔨🔨
 
